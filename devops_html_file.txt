@@ -1,0 +1,11 @@
+<html>
+<head>
+   DEVOPS 
+</head>
+
+<h1> Welcome to the devops lab session </h1>
+<body>
+    <p>This is a new paragraph</p>
+    <p>Paragraphs are essential to display txt data into columns. </p>
+</body>
+</html>
